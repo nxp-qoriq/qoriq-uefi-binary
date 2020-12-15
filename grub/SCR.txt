@@ -1,0 +1,32 @@
+NXP Software Content Register
+
+--------------------------------------------------------------------------------
+
+Package:                    BOOTAA64.EFI
+Outgoing License:           GNU General Public License Version 3’
+License File:               COPYING
+Type of content:            Source code
+Branch:                     master
+Commit:                     2df291226638261d50fadcab1f5edb6c12ab6cfd
+Description and comments:   GNU GRUB 2 is a multiboot bootloader which responsible for loading 
+                            and transferring control to the operating system kernel software.
+                            The kernel, in turn, initializes the rest of the operating system.
+                                                               
+                            Grub source code is available under ‘GNU General Public License 
+                            Version 3’. License details is maintained in individual files in
+                            source code too. 
+                                                             
+                            For more info Please visit
+                            README:      https://git.savannah.gnu.org/cgit/grub.git/tree/README 
+                            License:     https://git.savannah.gnu.org/cgit/grub.git/tree/COPYING
+                            Source Code: https://git.savannah.gnu.org/cgit/grub.git/tree/
+                                                             
+                            NXP uses latest code of GRUB 2 to generate binary(BOOTAA64.EFI) to
+                            save time and for better user experience.
+                                                                                             
+Release Location:           NXP mirror
+Origin:                     GNU GRUB 2 (https://www.gnu.org/software/grub/grub.html)
+
+
+--------------------------------------------------------------------------------
+
