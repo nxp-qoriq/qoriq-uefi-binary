@@ -1,0 +1,17 @@
+NXP Software Content Register
+
+Outgoing License: NXP-Binary
+
+Release - qoriq-uefi-binary 21.08
+August 2021
+
+--------------------------------------------
+
+Package:                     qoriq-uefi-binary
+Outgoing License:            NXP-Binary
+License File:                NXP-Binary-EULA
+Package Category:            firmware
+Type of Content:             binary
+Description and comments:    Unified Extensible Firmware Interface binaries
+Release Location:            https://github.com/nxp/qoriq-uefi-binary
+
